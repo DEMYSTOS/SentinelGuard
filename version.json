@@ -2,9 +2,9 @@
     "version": "5.4.1",
     "download_url": "https://github.com/DEMYSTOS/SentinelGuard/releases/download/v5.4.1/SentinelGuard.exe",
     "sha256": "cd28914b3399d73308eb8a3ed5f2ba5531f0dd93e667d7423da69e066b888f4d",
-    "changelog": "SentinelGuard v5.4.1 Commercial Apex - Remote License Manager \\\\\\\\\\\\\\\\u0026 Memory Shields",
+    "changelog": "SentinelGuard v5.4.1 Commercial Apex - Remote License Manager \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\u0026 Memory Shields",
     "mandatory": false,
-    "published_at": "2026-10-18T05:04:27Z",
+    "published_at": "2026-10-18T05:04:28Z",
     "revoked_keys": [
     ],
     "revoked_hwids": [
