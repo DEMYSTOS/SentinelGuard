@@ -1,0 +1,8 @@
+{
+    "version":  "5.4.1",
+    "download_url":  "https://github.com/BlueScarletDEV/SentinelGuard/releases/download/v5.4.1/SentinelGuard.exe",
+    "sha256":  "77d17af3693bd1b16d2be02eea04d04eacf9e1e9fd04dc62a8120d3c8544922c",
+    "changelog":  "Ajout Auto-Update",
+    "mandatory":  false,
+    "published_at":  "2026-10-18T02:49:46Z"
+}
