@@ -1,8 +1,14 @@
 {
     "version":  "5.4.1",
-    "download_url":  "https://github.com/BlueScarletDEV/SentinelGuard/releases/download/v5.4.1/SentinelGuard.exe",
-    "sha256":  "77d17af3693bd1b16d2be02eea04d04eacf9e1e9fd04dc62a8120d3c8544922c",
-    "changelog":  "Ajout Auto-Update",
+    "download_url":  "https://github.com/DEMYSTOS/SentinelGuard/releases/download/v5.4.1/SentinelGuard.exe",
+    "sha256":  "cd28914b3399d73308eb8a3ed5f2ba5531f0dd93e667d7423da69e066b888f4d",
+    "changelog":  "SentinelGuard v5.4.1 Commercial Apex - Remote License Manager \u0026 Memory Shields",
     "mandatory":  false,
-    "published_at":  "2026-10-18T02:49:46Z"
+    "published_at":  "2026-10-18T04:50:16Z",
+    "revoked_keys":  [
+
+                     ],
+    "revoked_hwids":  [
+
+                      ]
 }
