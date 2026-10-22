@@ -1,5 +1,13 @@
 [
     {
+        "hash":  "26c43237d42d6bb5cec53ab89e8ede617f9190e1668590da03161533de0e7e33",
+        "tier":  "ENTERPRISE_DEV",
+        "expiry":  "PERPETUAL",
+        "customer":  "Blue (Master Dev)",
+        "status":  "ACTIVE",
+        "created_at":  "2026-10-18"
+    },
+    {
         "hash":  "71760d907803e5865cefad5d9287eacf9f9abb22a2dbf732129662560f70d0e4",
         "tier":  "LIFETIME_ULTRA",
         "expiry":  "PERPETUAL",
