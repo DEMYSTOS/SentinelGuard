@@ -14,5 +14,13 @@
         "customer":  "blue@sentinelguard.io",
         "status":  "ACTIVE",
         "created_at":  "2026-10-22"
+    },
+    {
+        "hash":  "1ca3a0d367be3850d6a0fbcd4c1c25780fa31ff94717a9fe1bfd59ca34f70563",
+        "tier":  "ENTERPRISE_DEV",
+        "expiry":  "PERPETUAL",
+        "customer":  "client@sentinelguard.io",
+        "status":  "ACTIVE",
+        "created_at":  "2026-10-22"
     }
 ]
