@@ -1,1 +1,8 @@
-[]
+{
+    "hash":  "71760d907803e5865cefad5d9287eacf9f9abb22a2dbf732129662560f70d0e4",
+    "tier":  "LIFETIME_ULTRA",
+    "expiry":  "PERPETUAL",
+    "customer":  "blue@sentinelguard.io",
+    "status":  "ACTIVE",
+    "created_at":  "2026-10-22"
+}
